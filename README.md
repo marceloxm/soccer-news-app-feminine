@@ -3,7 +3,7 @@ Projeto faz parte da Beca do Banco Santander - Mobile
 
 DESCRIÇÃO
 
-Foi criado um App Android Nativo usando a linguagem de programação Java, 
+Projeto desenvolvido utilizando a linguagem de programação Java, 
 explorando os componentes nativos mais atuais oferecidos pelo Android Jetpack. 
 Para isso, abstraimos uma solução que apresente notícias sobre futebol feminino, 
 consumidas a partir de uma API REST também criada durante este desafio de projetos. 
